@@ -1,8 +1,8 @@
 # Documentation
 
-All PantherSwap pairs consist of two different tokens. BNB is not a native currency in PantherSwap, and is represented only by WBNB in the pairs. 
+All DragonStash pairs consist of two different tokens. BNB is not a native currency in PantherSwap, and is represented only by WBNB in the pairs. 
 
-The canonical WBNB address used by the PantherSwap interface is `0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c`.
+The canonical WBNB address used by the DragonStash interface is `0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c`.
 
 Results are cached for 2 minutes (or 120 seconds).
 
