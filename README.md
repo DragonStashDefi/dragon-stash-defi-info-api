@@ -1,6 +1,6 @@
-# PantherSwap API
+# DragonStash API
 
-The PantherSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface PantherSwap liquidity
+The DragonStash API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface DragonStash liquidity
 and volume information. All information is fetched from the underlying subgraphs.
 
 ## Documentation
