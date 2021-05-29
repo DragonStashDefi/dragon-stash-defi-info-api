@@ -17,7 +17,7 @@ export type GlobalData = {
   volume_USD: string;
   tx_count: number;
 };
-export const FACTORY_ADDRESS = "0x670f55c6284c629c23baE99F585e3f17E8b9FC31";
+export const FACTORY_ADDRESS = "0x670f55c6284c629c23baE99F585e3f17E8b9FC31"; //update this later to DegFactory
 export const SKIP_BLOCKS = 200;
 export const BLOCK_TIME = 3;
 

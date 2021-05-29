@@ -1,9 +1,9 @@
 {
-  "name": "panther-info-api",
+  "name": "dragonstash-info-api",
   "version": "1.0.0",
-  "description": "Serverless API implementation for PantherSwap on-chain data query.",
-  "repository": "git@github.com:pantherswap/panther-info-api.git",
-  "author": "PantherSwap",
+  "description": "Serverless API implementation for DragonStash on-chain data query.",
+  "repository": "git@github.com:dragonstashdefi/dragon-stash-defi-info-api.git",
+  "author": "DragonStash",
   "license": "MIT",
   "scripts": {
     "format:check": "prettier --check '*/**/*.{js,ts}'",
