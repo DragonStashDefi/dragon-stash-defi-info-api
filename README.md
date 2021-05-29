@@ -5,7 +5,7 @@ and volume information. All information is fetched from the underlying subgraphs
 
 ## Documentation
 
-The documentation of the endpoints for PantherSwap can be found [here](documentation.md).
+The documentation of the endpoints for DragonStash can be found [here](documentation.md).
 
 ## Development
 
